@@ -1,0 +1,135 @@
+ID,Image_Label,Question,Answer,Expression
+s-1,/static/language/1.png,What is he doing?,Chopping vegetables.; He is cutting vegetables happily.; Getting ingredients ready in the kitchen.; He is preparing ingredients for cooking with a smile.,Happy
+s-1,/static/language/1.png,Who is cutting vegetables?,The chef.; Chef is cutting vegetables.; A man wearing chef cap.,Happy
+s-1,/static/language/1.png,Where is he cutting vegetables?,In a kitchen.; He is cutting vegetables happily in his kitchen.; In a cooking area.; In his home kitchen.,Happy
+s-1,/static/language/1.png,How he is cutting vegetable?,Using a knife.; He is cutting vegetables on a cutting mat.; Using a chopping board and a knife.,Happy
+s-7,/static/language/7.png,What is he doing?,Saving a cat.; He is rescuing a cat.; He is happily holding a rescued cat.,Happy
+s-7,/static/language/7.png,Who is rescuing the cat?,The firefighter.; The firefighter is rescuing the cat.; A man is rescuing a cat.,Happy
+s-7,/static/language/7.png,Where is he?,At forest.; He is at park.; He is in the woods.; He is at a place with many trees around.,Happy
+s-8,/static/language/8.png,What is she doing?,She is holding her toys sadly.;She is sad and holding her toys.;She is in a sad mood.;She is demanding for toys.,Sad
+s-8,/static/language/8.png,Who is she?,A girl.;A child.;She is a little girl.;She is a child.,Sad
+s-8,/static/language/8.png,Where she is?,She is in a super market.;She is in a shop.;She is in shopping mall.;She is at a store.,Sad
+s-10,/static/language/10.png,What is she doing? ,Painting a landscape scene.; She is happily painting a colorful scene.; The woman is painting happily.; Painting a beautiful scene with a smile.,Happy
+s-10,/static/language/10.png,Who is painting?,A young woman.; A young lady.; An artist.; A painter.,Happy
+s-10,/static/language/10.png,Where she is painting?,At the park.; She is painting outside in a park.; She is surrounded by trees.,Happy
+s-10,/static/language/10.png,How she is painting?,"Using paint brush.; She is painting happily using different paint colours.; By using canvas, paints, and a brush.",Happy
+s-11,/static/language/11.png,What is he repairing?,Car engine.; Repairing an engine.; He is repairing a broken car.; He is repairing car engine.,Sad
+s-11,/static/language/11.png,Who is repairing an engine?,A man.; A sad mechanic.; A mechnic is repairing an engine.; A car expert.,Sad
+s-11,/static/language/11.png,Where he is repairing a car?,At a shop.; He is repairing in a car repairing shop.; He is repairing car at a car repair shop.; He is repairing car at a workshop.,Sad
+s-12,/static/language/12.png,What is he doing?,He is playing with a toy car.; He is sad and looking at his car.;  He is looking at his toy car.,Sad
+s-12,/static/language/12.png,Who is he?,He is a boy.; He is a student.,Sad
+s-12,/static/language/12.png,Where he is?,He is infront of a toy cupboard.; He is inside his room.; He is sitting on the floor.,Sad
+s-13,/static/language/13.png,What is she doing?,She is reading a book; She is reading a story book.; A story book.; A book of cartoons.,Neutral
+s-13,/static/language/13.png,Who is reading a book?,A child.; A girl.; A young girl is reading a book.; A child is reading a book.,Neutral
+s-13,/static/language/13.png,Where she is reading a book?,Inher bed.; She is reading a book in her bed.; She is reading before going to sleep.,Neutral
+s-15,/static/language/15.png,What is he doing?,Baking bread.; He is happily baking a bread.; Baking fresh bread.; He is taking out freshen baked bread.,Happy
+s-15,/static/language/15.png,Who is baking?,A baker.; An old man.; A man.; A baker baking bread.,Happy
+s-15,/static/language/15.png,Where is he baking?,In the kitchen.; He is baking bread in an oven.; He is baking in a baking room.; He is infront of an oven.,Happy
+s-17,/static/language/17.png,What is the she planting?,Planting flowers.; She is happily planting flowers.; The woman is planting flowers in the pots with a smile.; Planting colorful flowers in her garden.,Happy
+s-17,/static/language/17.png,Who is planting?,A woman.; A young lady.; A gardener.; A homeowner is planting flowers.,Happy
+s-17,/static/language/17.png,Where she is planting?,In her backyard flower pots.; In a courtyard.; In a garden.; In a nursery area.,Happy
+s-20,/static/language/20.png,What is she feeding?,She is happy to feed her pet rabbit.; She is giving food to the rabbit.; The girl is feeding her pets.; She is taking care of her pet.,Happy
+s-20,/static/language/20.png,Who is she?,A girl.; She is a pet lover.; She is a pet owner.; She is a child.,Happy
+s-20,/static/language/20.png,Where is she?,She is at home.; She is sitting near to her pet.,Happy
+s-21,/static/language/21.png,What is he doing?,Happily playing a video game.; He is happy while playing a video game.; Gaming on the TV.; Playing a video game and snacking.,Happy
+s-21,/static/language/21.png,Who is playing?,The man.; A young man is playing.,Happy
+s-21,/static/language/21.png,Where he is playing?,In his house.; He is playing in a TV lounge.,Happy
+s-21,/static/language/21.png,How he is playing?,He is playing using a controller.; Using a controller.,Happy
+s-22,/static/language/22.png,What is she writing?,Writing a letter.; She is writing a homework.; The girl is u]sing colorful stationery.; She is writing on a page.,Neutral
+s-22,/static/language/22.png,Who is she?,She is a student.; A girl.; She is a school girl.,Neutral
+s-22,/static/language/22.png,Where she is?,In a home.; She is in a room.; She is at her workstation.; She is sitting on a chair.,Neutral
+s-23,/static/language/23.png,What is she doing?,Smiling and reading a book.; She is reading a book with a smile.; The woman is reading a novel.; Relaxing with a book and tea.,Happy
+s-23,/static/language/23.png,Who is she?,A woman.; A teenager.; A young lady.,Happy
+s-23,/static/language/23.png,Where is she?,In her home.; She is at her house.; She is in her living area.; She is in her room.; She is sitting on a sofa,Happy
+s-24,/static/language/24.png,What is he doing?,He is doing barbecue.; He is grilling food.; The man is cooking on the barbecue grill.,Neutral
+s-24,/static/language/24.png,Who is cooking?,An old man.; A chef.; A barbecue expert.,Neutral
+s-24,/static/language/24.png,Where he is cooking?,In a lawn.; In a backyard.; He is doing barbeque in the backyard.,Neutral
+s-25,/static/language/25.png,What is she creating on the wall?,A mural.; She is painting a design happily.; The woman is happy and creating a mural.; She is creating a colorful design on wall.,Happy
+s-25,/static/language/25.png,Who is she?,A woman.; A young lady.; An artist.; A fappy painter.,Happy
+s-25,/static/language/25.png,Where is she?,She is at street side.; In a street.; She is outside in a street.,Happy
+s-26,/static/language/26.png,What is he looking at?,Looking at fish.; He is observing fish in the aquarium.; The boy is fascinated by the fish.; Looking at aquarium with a smile.,Happy
+s-26,/static/language/26.png,Who is he?,A boy.; He is a student.; He is a tourist.,Happy
+s-26,/static/language/26.png,Where he is?,He is in a museum.; He is in a fish show.; He is at mall.,Happy
+s-27,/static/language/27.png,What is he doing?,He is photographing sunset.; He is smiling and capturing a sunset.; He is taking a picture of sunrise.; He is capturing a dawn moment.,Happy
+s-27,/static/language/27.png,Who is capturing?,A man.; A happy photographer is capturing a shot.; A tourist is taking a picture.,Happy
+s-27,/static/language/27.png,Where he is capturing shot?,He is capturing shot at seaview point.; At an ocean side.; He is at beach.; He is at a seaside.,Happy
+s-27,/static/language/27.png,How he is capturing a shot?,He is using a camera.; Camera with a tripod stand.,Happy
+s-28,/static/language/28.png,What is she doing?,She is smiling and knitting.; She is knitting happily.; She is making a scarf.; She is kntting a sweater.; She is making a muffler.,Happy
+s-28,/static/language/28.png,Where is she?,At her home.; She is knitting inside her house.; She is sitting on a sofa in her room.,Happy
+s-28,/static/language/28.png,How she is making?,By using yarn.; She is using knitting tool and yarn.,Happy
+s-29,/static/language/29.png,What is he doing?,Happily flying a kite.; He is flying a kite with a smile.,Happy
+s-29,/static/language/29.png,Who is flying a kite?,A boy.; A young boy is flying a kite.; A happy boy is flying a kite.,Happy
+s-29,/static/language/29.png,Where he is flying a kite?,At a park.; He is flying a kite in a ground.,Happy
+s-29,/static/language/29.png,How he is flying a kite?,By pulling string of a kite.; He is holding string in his hands.; He is flying in a direction of wind.,Happy
+s-30,/static/language/30.png,What is she doing?,Pruning a rose bush.; She is happily gardening.; She is taking care of plants with a smile.; Taking care of the rose bush in the garden.,Happy
+s-30,/static/language/30.png,Who is she?,An old lady.; She is a happy gardener.,Happy
+s-30,/static/language/30.png,Where is she?,In a garden.; She is in a backyard.; She is in a small garden outside her house.,Happy
+s-30,/static/language/30.png,How she is pruning?,By using a small scissor.; She is cutting stems of a plant.; She is pruning by using small scissor.,Happy
+c-0,/static/language/0.png,What are they doing?,Planting a plant.; They are digging ground for a plant.; They are planting with a smile.; Engaged in a plantion activity.,Happy
+c-0,/static/language/0.png,Who are they?,Group of happy volunteers.; They are volunteers.,Happy
+c-0,/static/language/0.png,Where are they planting?,In a garden.; In a park.; In a city park.; In a public park.,Happy
+c-0,/static/language/0.png,How they are planting?,Using shovel.; With their hands.; Digging with shovel and water with water sprinkler.,Happy
+c-2,/static/language/2.png,What are they doing?,They are studying.; They are reading books.; They are preparing for exams.; They are preparing notes.,Neutral
+c-2,/static/language/2.png,Who are they?,They are students.; They are researchers.; They are teenagers.,Neutral
+c-2,/static/language/2.png,Where they are?,In a library.; They are in a library.; They are in a book house.,Neutral
+c-2,/static/language/2.png,How are they studying?,By reading books.; By writing notes.; By making notes from multiple books.; By taking notes from various books.,Neutral
+c-3,/static/language/3.png,What are they doing?,Having a picnic.; They are enjoying a picnic.; Having a family time.; Enjoying food.,Happy
+c-3,/static/language/3.png,Who are they?,A happy family.; They are family members.; Parents and children.; They are family.,Happy
+c-3,/static/language/3.png,Where are they?,In a park.; They are at picnic spot.; They are at a park.,Happy
+c-3,/static/language/3.png,How they are doing picnic?,By having food items.; They are eating snacks.,Happy
+c-4,/static/language/4.png,What are they doing?,Smiling and building a sandcastle.; They are constructing a sandcastle.; They are making a sandcastle with a smile.; Playing with sand.,Happy
+c-4,/static/language/4.png,Who are they?,They are happy kids.; A boy and a girl.; They are children.,Happy
+c-4,/static/language/4.png,Where are they?,At seaside.; They are at a beach.; They are at seashore.; They are at sea side.,Happy
+c-4,/static/language/4.png,How they are building a sand castle?,By using sand and small buckets.; They are building with help of their hands.; They are using sand and toy buckets.,Happy
+c-5,/static/language/5.png,What are they doing?,"They are talking, smiling and hiking.; They are trekking through the woods.; They s are hiking together.; Walking along a nature trail.",Happy
+c-5,/static/language/5.png,Who are they?,They are group of friends.; They are family members.; They are a group of happy trekkers.; They are students.,Happy
+c-5,/static/language/5.png,Where are they?,At a forest.; They are at hiking track.; They are in the woods.,Happy
+c-5,/static/language/5.png,How are they hiking?,With their bagpacks.; They have accessories bag with them.,Happy
+c-6,/static/language/6.png,What is he doing?,Watching over people.; He is performing his duty.; He is taking care of swimmers.,Neutral
+c-6,/static/language/6.png,Who is watching over the swimmers?,The lifeguard.; The lifeguard is watching over the swimmers.; The lifeguard is ensuring the swimmers' safety.,Neutral
+c-6,/static/language/6.png,Where he is?,At seaside.; He is at the beach.; At beach.; He is at the seashore.,Neutral
+c-6,/static/language/6.png,How he is watching?,By standing guard at his post.; He is looking at people from top view.; At his post using binoculars.,Neutral
+c-9,/static/language/9.png,What she is doing?,Helping her student.; She is teaching a boy.; She is helping her student with his work.; She is happily assisting a student work.,Happy
+c-9,/static/language/9.png,Who is helping the student?,The teacher.; The teacher is assisting the student.; A woman is helping a boy in classwork.; A teacher is correcting her student's mistakes.,Happy
+c-9,/static/language/9.png,Where she is helping?,In a classroom.; She is helping a student at school.; She is helping a boy at his desk.,Happy
+c-9,/static/language/9.png,How she is helping a student?,By correcting mistakes.; She is writing on the student's workbook.,Happy
+c-16,/static/language/16.png,What are they doing together?,They are watching a movie.; They are having  a family time.; Enjoying a movie night.,Happy
+c-16,/static/language/16.png,Who are they?,A happy family.; They are family.; Parents and children.,Happy
+c-16,/static/language/16.png,Where are they watching movie?,At home.; They are watching movie in their house.; They are watching movie in a sitting room.,Happy
+c-18,/static/language/18.png,What are they assembling?,A model airplane.; They are assembling a model airplane.; They are working on a model airplane.; A small airplane.,Sad
+c-18,/static/language/18.png,Who is assembling an airplane?,A father and a sad son.; A teacher and a student.; A man and a child.; Father and son are assoembling a small model aeroplane.,Sad
+c-18,/static/language/18.png,Where are they assembling an airplane?,In a house.; In a working room.; They are in the repair and maintenance room.,Sad
+c-19,/static/language/19.png,What are they celebrating?,A birthday.; They are celebrating a birthday.; ,Happy
+c-19,/static/language/19.png,Who are celebrating?,Children are celebrating birthday.; A group of happy kids.; Kids are celebrating a party.; Friends are celebrating a birthday.; A group of young kids.,Happy
+c-19,/static/language/19.png,Where are they celebrating?,Outside home.; They are celebrating in a lawn.; In a courtyard.; Children are celebrating birthday in the backyard.,Happy
+c-32,/static/language/32.png,What is she doing?,Smiling and teaching pottery making.; She is happily teaching pottery.; She is making pots using clay.; She is making cups in pottery.,Happy
+c-32,/static/language/32.png,Who is she?,A woman.; She is a happy teacher.; She is a pottery expert.; Pottery maker.,Happy
+c-32,/static/language/32.png,Where she is?,She is in a pottery class.; She is at pottery shop.,Happy
+c-38,/static/language/38.png,What is the boy doing?,Presenting a science project with a smile.; He is happily presenting his science project.; The boy is demonstrating his project.; Participating in a school science fair.,Happy
+c-38,/static/language/38.png,Who is he?,He is a student.; He is a happy young school age boy.; He is a young scientist.,Happy
+c-38,/static/language/38.png,Where he is?,He is in a science fair.; He is showing his project at exhibition.; He is in a school science fair.; He is at project gallery.,Happy
+c-42,/static/language/42.png,What are they creating?,Family is building a snowman.; They are making a snowman.; The family is happily constructing a snowman.; Crafting a snowman in the yard.,Happy
+c-42,/static/language/42.png,Who are they?,They are happy family.; Parents and a child.,Happy
+c-42,/static/language/42.png,Where are they?,They are outside house.; They are on street side.; In the yard.,Happy
+c-42,/static/language/42.png,How they are creating?,By collecting snow.; With the help of a snow.; They are creating using their hands and snow.,Happy
+c-44,/static/language/44.png,What are they playing?,They are happily playing a board game.; They are playing a board game.; The family is having a board game night.; Engaging in a fun board game together.,Happy
+c-44,/static/language/44.png,Who are they?,They are friends.; They are family members.; A father and daughters.,Happy
+c-44,/static/language/44.png,Where are they?,In a house.; They are in a room.; They are in a TV lounge.,Happy
+c-49,/static/language/49.png,What is he doing?,Reading a bedtime story.; He is telling a happy bedtime story.; The father is happily reading to his child.; Sharing a story before bed.,Happy
+c-49,/static/language/49.png,Who are they?,A father and a son.; They are family members.; A man and a child.,Happy
+c-49,/static/language/49.png,Where are they?,They are in a bed.; They are in a room.; They are covered in blanket.,Happy
+c-50,/static/language/50.png,What are they doing?,Raking leaves.; They are happily cleaning up the yard.; The family is gathering fallen leaves with a smile.; Collecting leaves in the yard.,Happy
+c-50,/static/language/50.png,Who are they?,They are family members.; They are neighbours.; Parents and children.,Happy
+c-50,/static/language/50.png,Where are they?,They are outside a house.; In a backyard.; They are in a lawn outside house.,Happy
+c-50,/static/language/50.png,How are they cleaning?,They are collecting leaves with hands.; They are cleaning with a long brush.,Happy
+c-56,/static/language/56.png,What are they making?,Baking cookies.; They are making cookies with smile.; The kids are baking in the kitchen.; They are happily preparing cookie dough together.,Happy
+c-56,/static/language/56.png,Who are they?,Boys and girls.; They are friends.; They are students.; They are relatives.,Happy
+c-56,/static/language/56.png,Where are they?,They are in a kitchen.; They are in a baking area.; They are in a home.; They are in a baking class.,Happy
+c-63,/static/language/63.png,What is she riding?,A scooter.; She is riding a scooter.; The girl is learning to drive a scooter.; Scootering on the sidewalk.,Angry
+c-63,/static/language/63.png,Who is she?,Angry child.; She is a scooty driver.,Angry
+c-63,/static/language/63.png,Where she is?,She is on a road.; She is driving along side walk.,Angry
+c-70,/static/language/70.png,What are they doing?,They are sad and arguing.;They are quarelling.,Sad
+c-70,/static/language/70.png,Who are they?,They are family members.;They are siblings.;They are friends.;Brother and a sister.,Sad
+c-70,/static/language/70.png,Where are they?,They are in their home.;They are in living area.;They are in a TV lounge.,Sad
+c-71,/static/language/71.png,What are they doing?,They are walking.; They are taking a walk.; Couple is taking a walk.; They are walking together.,Neutral
+c-71,/static/language/71.png,Where are they?,At the seaside.; At the seashore.; At the shore.; They are at the seashore.,Neutral
